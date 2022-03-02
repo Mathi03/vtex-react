@@ -1,7 +1,7 @@
 {
   "vendor": "passarelape",
-  "name": "my-component",
-  "version": "1.2.0",
+  "name": "custom-component-george",
+  "version": "0.0.0",
   "title": "introduction-vtex",
   "description": "introduction Vtex",
   "builders": {

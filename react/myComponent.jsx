@@ -1,8 +1,11 @@
 import React from 'react'
+import s from './styles.css'
 
 const myComponent = () => {
   return (
-    <h1>Hola, soy un componente</h1>
+    <div>
+    <h1 className={`${s.container}`}>Hola, soy un componente</h1>
+    </div>
   )
 }
 
